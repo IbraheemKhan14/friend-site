@@ -7,17 +7,17 @@ Add URI of your mongoDB connection in default.json file located in config folder
 ```
 
 ```
-### Install Server Dependencies
+1. Install Server Dependencies
 npm install
 
-### Install Client Dependencies
+2. Install Client Dependencies
 cd client
 npm install
 
-### Running React and Express concurrently from root
+3. Running React and Express concurrently from root
 npm run dev
 
-### Build for production
+4. Build for production
 cd client 
 npm run build
 ```
